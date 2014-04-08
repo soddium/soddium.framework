@@ -1,10 +1,15 @@
-What is soddium framework?
+what is soddium framework?
 =================
 
 
-What is soddium.com itself anyways?
+what is soddium.com itself anyways?
 =================
 
 
-How can I contribute?
+what language is soddium platform written in?
+=================
+soddium framwork is written in node.js.
+
+
+how can i contribute?
 =================
